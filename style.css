@@ -85,7 +85,7 @@ header .profile-icon img {
     height: auto;
 }
 
-/* header .profile-icon { */
+header .profile-icon { 
     font-size: 1rem;
     image-rendering: crisp-edges;
     border-radius: 10px;
